@@ -1,7 +1,7 @@
 """pipeline.py - Project script (example).
 
-Author: Your Name Here
-Date: 2026-mm-dd
+Author: James Webb
+Date: 2026-11
 
 Purpose:
   Confirm your project environment is set up correctly.
